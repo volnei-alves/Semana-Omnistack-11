@@ -1,7 +1,7 @@
 # Semana-OmniStack-Frontend
 Aplicação Be the Hero frontend Ongs.....
 
-![frontend](https://firebasestorage.googleapis.com/v0/b/minhasimg-a3b1e.appspot.com/o/Captura%20de%20Tela%20(8).png?alt=media&token=37e261a6-9c44-4f98-a524-f890b297e568)
+![frontend](https://firebasestorage.googleapis.com/v0/b/minhasimagens-7043c.appspot.com/o/hero2.jpg?alt=media&token=d8ba9c1f-b142-4ba0-9b86-5452f4ff4e59)
 
 
 
@@ -10,4 +10,4 @@ Aplicação Be the Hero Mobile Ongs.....
 
 
 
-![frontend](https://firebasestorage.googleapis.com/v0/b/minhasimg-a3b1e.appspot.com/o/Hero%20Mobile.jpg?alt=media&token=57ae98ec-2a5d-4f1e-b07b-3ca9c8485207)
+![frontend](https://firebasestorage.googleapis.com/v0/b/minhasimagens-7043c.appspot.com/o/hero.jpg?alt=media&token=4433f2b4-d659-4837-b8b1-092264743353)
